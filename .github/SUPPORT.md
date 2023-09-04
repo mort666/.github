@@ -2,7 +2,7 @@
 
 ## Submit an issue
 
-Please follow [this guide](https://portapps.io/doc/reporting-issue/) to file a proper issue report.
+Please follow [this guide](https://portapps.io/doc/reporting-issue/) to file a proper issue report. However if reporting an issue for this forked version report here not to upstream.
 
 ## Closure policy
 

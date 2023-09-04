@@ -6,7 +6,7 @@ on:
       go_version:
         required: false
         type: string
-        default: '1.20'
+        default: '1.21'
 
 jobs:
   run:
