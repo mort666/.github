@@ -19,15 +19,9 @@ about: Create a report to help us improve
 
 > Tell me what happens instead
 
-### Configuration
+### Usage and/or Configuration
 
-**App release / arch (ex. 1.0.0-2 win64)** :
-
-**Operating system (ex. Windows 10 Pro 64 bits)** :
-
-**Winver screenshot** :
-
-> Open a command prompt and type winver then take / save the screenshot of the window and drag the image file in this issue. For example: http://bit.ly/2vA5sxR
+> Detail how you've used or configured the library/application to help us replicate the issue.
 
 ### Screenshots
 
@@ -35,4 +29,4 @@ about: Create a report to help us improve
 
 ### Logs
 
-Join the log file `log\[appname]-portable.log` to this issue.
+Attach any relevent logs to this issue.
